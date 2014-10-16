@@ -1,0 +1,14 @@
+Redis: 
+	2.4.6 
+
+Go:
+	release (as of 4/18/2011)
+	6g version release.r60.3 9516
+	6l version release.r60.3 9516
+
+Test platform
+	darwin/amd64
+
+--
+January 31, 2012
+bushwick/nyc
